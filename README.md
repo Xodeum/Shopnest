@@ -1,2 +1,9 @@
-# Shopnest
-A fully responsive e-commerce website for a clothing business built with React and Tailwind CSS.  ShopNest delivers a seamless user experience with a modern UI, fast performance, and clean, scalable code.
+Enjoy the Free code + Assets 😍
+
+  - Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
+
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
